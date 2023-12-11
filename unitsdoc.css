@@ -1,0 +1,11 @@
+table,th,td{
+    border-style: groove;
+    border-radius: 5px;
+    border-collapse: collapse;
+    padding: 10px;
+
+}
+li{
+    text-decoration: underline;
+    
+}
